@@ -1,0 +1,6 @@
+1$Sp$Sally Saad$7
+2$MathII$Nevin Atef$3
+3$Elec$Islam Gamal$1
+4$Phy$Hassan Ramdan$5
+5$Mang$Shiren Mossa$4
+6$Acm$Mohamed Yousry$3

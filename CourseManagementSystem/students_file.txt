@@ -1,0 +1,8 @@
+1$Ahmed saad$6$MathII$140$Sp$120$Phy$46$Elec$76$Acm$186$Mang$22
+2$Ahmed Shakr$2$Sp$15$MathII$78
+3$Ahmed Aswany$2$Phy$96$Mang$42
+4$Ahmed Hossam$2$Sp$14$Phy$10
+5$Abo Bakr$3$Phy$32$MathII$78$Sp$65
+6$Mahmoud Saad$2$Sp$43$Phy$13
+7$Omar Gamal$2$Acm$54$Mang$65
+8$Ahmed Samir$4$Sp$45$Acm$43$Mang$13$Sp$22
