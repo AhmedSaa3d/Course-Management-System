@@ -13,3 +13,19 @@
 	<string>
 	<windows.h>
 
+1672573637 source:e:\courses\projects\coursemanagementsystem\main.cpp
+	"ProjMangHeaders.h"
+
+1672573637 e:\courses\projects\coursemanagementsystem\projmangheaders.h
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<string>
+	<windows.h>
+
+1672574706 source:e:\courses\projects\coursemanagementsystem\studentcode.cpp
+	"ProjMangHeaders.h"
+
+1672573374 source:e:\courses\projects\coursemanagementsystem\coursescode.cpp
+	"ProjMangHeaders.h"
+
